@@ -1,0 +1,50 @@
+\begin{theindex}
+
+  \item {functions.c}, \hyperpage{7}
+    \subitem {GetPSL}, \hyperpage{7}
+    \subitem {IsPSLGood}, \hyperpage{8}
+    \subitem {PrintInfo}, \hyperpage{8}
+    \subitem {ShowList}, \hyperpage{8}
+  \item {functions.h}, \hyperpage{9}
+    \subitem {GetPSL}, \hyperpage{9}
+    \subitem {IsPSLGood}, \hyperpage{9}
+    \subitem {PrintInfo}, \hyperpage{10}
+    \subitem {ShowList}, \hyperpage{10}
+
+  \indexspace
+
+  \item {GetPSL}
+    \subitem {functions.c}, \hyperpage{7}
+    \subitem {functions.h}, \hyperpage{9}
+
+  \indexspace
+
+  \item {IsPSLGood}
+    \subitem {functions.c}, \hyperpage{8}
+    \subitem {functions.h}, \hyperpage{9}
+
+  \indexspace
+
+  \item {main.c}, \hyperpage{10}
+
+  \indexspace
+
+  \item {Node1}, \hyperpage{5}
+  \item {NodeType}
+    \subitem {struct.h}, \hyperpage{11}
+
+  \indexspace
+
+  \item {PrintInfo}
+    \subitem {functions.c}, \hyperpage{8}
+    \subitem {functions.h}, \hyperpage{10}
+
+  \indexspace
+
+  \item {ShowList}
+    \subitem {functions.c}, \hyperpage{8}
+    \subitem {functions.h}, \hyperpage{10}
+  \item {struct.h}, \hyperpage{11}
+    \subitem {NodeType}, \hyperpage{11}
+
+\end{theindex}
