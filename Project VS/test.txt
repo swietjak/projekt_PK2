@@ -1,5 +1,0 @@
-imię: Jan
-nazwisko: Kowalski
-PESEL1: 00311501289 00311501289
-PESEL2: 00311501289
-adres:  Akademicka 16, 44-100 Gliwice
